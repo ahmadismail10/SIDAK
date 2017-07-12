@@ -25,11 +25,11 @@ if (!isset($_POST['update'])) {
     <div style='background-color:#eee;border:1px solid #aaa;padding:5px;'>
     <?php
     if ($fordbversion < dbversion() ) {
-	echo "It seems that you have replaced the ITDB installation with an older version, but  not the the database  which is newer version than the software. This will probably lead to data corruption. Please update ITDB files to the newest version<br>\n";
+	echo "It seems that you have replaced the SIDAK installation with an older version, but  not the the database  which is newer version than the software. This will probably lead to data corruption. Please update SIDAK files to the newest version<br>\n";
     }
     else {
     ?>
-    You have updated your ITDB installation (files). To complete the upgrade, database to the same version.<br>
+    You have updated your SIDAK installation (files). To complete the upgrade, database to the same version.<br>
     Please take a backup of your database if you haven't done so yet right now, by downloading the file: 
       <a style='font-size:12px;' title='<?php te("Download DataBase file. Contains all data except uploaded files/documents");?>' href='getdb.php'>
       <img src='images/database_save.png'> Download Database (SQLite)</a><br>
@@ -80,6 +80,6 @@ else {
   echo "$s<br>Database version=".dbversion()."<br>";
   echo "Installation version=$fordbversion";
   echo "</div>";
-  echo "<a href=''>Proceed to ITDB</a>"; 
+  echo "<a href=''>Proceed to SIDAK</a>"; 
 }
 ?>
