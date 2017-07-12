@@ -328,7 +328,6 @@ if ($authstatus) {
 
 <tr><td colspan=2><a style="<?php echo $style_settings; ?>" class='ahdr' href="<?php echo $scriptname?>?action=settings" ><?php te("Settings");?></a></td></tr>
 
-    <tr><td colspan=2><a style="<?php echo $style_import; ?>" class='ahdr' href="<?php echo $scriptname?>?action=uploaddb" ><?php te("uploaddb");?></a></td></tr>
 <tr><td colspan=2><a style="<?php echo $style_import; ?>" class='ahdr' href="<?php echo $scriptname?>?action=import" ><?php te("Import");?></a></td></tr>
 <tr><td colspan=2><a style="<?php echo $style_translations; ?>" class='ahdr' href="<?php echo $scriptname?>?action=translations" ><?php te("Translations");?></a></td></tr>
 <tr><td colspan=2><a style="<?php echo $style_showhist; ?>" class='ahdr' href="<?php echo $scriptname?>?action=showhist" >DB Log</a></td></tr>
@@ -387,8 +386,8 @@ if ($authstatus) {
 if ($authstatus) {
 ?>
   <a title='<?php te("Download DataBase file. Contains all data except uploaded files/documents");?>' class='ahdr' href='getdb.php'><img src='images/database_save.png'>DB (SQLite)</a><br>
-  <a title='<?php te("Download a complete installation backup (much larger)");?>' class='ahdr' href='gettar.php'><img src='images/backup.gif' width=20>Full Backup</a><br>
-<?php 
+  <a title='<?php te("Upload database");?>' class='ahdr' href='<?php echo $scriptname?>?action=uploaddb'><img src='images/backup.gif' width=20>Upload DB</a><br>
+    <?php
 }
 
 echo "<br> <small>".
