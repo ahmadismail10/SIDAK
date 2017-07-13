@@ -25,10 +25,13 @@
                     
                     <h4 style="text-align: center;font-size: 16pt; color: #ffff00">Misi
                         <br>
-                            Berkomitmen menghasilkan produk berbasis  bahan baku tebu dan tembakau yang berdaya  saing tinggi untuk pasar domestik dan internasional dan berwawasan lingkungan.
-                            Berkomitmen menjaga pertumbuhan dan kelangsungan usaha melalui optimalisasi dan efisiensi di segala bidang.
+                            1. Berkomitmen menghasilkan produk berbasis  bahan baku tebu dan tembakau yang berdaya  saing tinggi untuk pasar domestik dan internasional dan berwawasan lingkungan.
+                        </br>
+                        <br>    
+                            2. Berkomitmen menjaga pertumbuhan dan kelangsungan usaha melalui optimalisasi dan efisiensi di segala bidang.
                             Mendedikasikan diri untuk selalu meningkatkan nilai-nilai perusahaan bagi kepuasan stakeholder melalui kepemimpinan, inovasi dan kerjasama team serta organisasi yang profesional.
                         </br>
+                        
                     </h4>
                  </div>
              </div>
