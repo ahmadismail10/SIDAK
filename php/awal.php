@@ -1,6 +1,4 @@
- <h1>
-        Welcome to Sistem Informasi Data Komputer (SIDAK) PTPN X
-    </h1>
+ <h1 style="text-align:center;font-size: 24pt">Welcome to Sistem Informasi Data Komputer (SIDAK) PTPN X</h1>
  <!--
 <div class="container">
     <img src="images/fotoawal.jpg" class="img-thumbnail" alt="GambarAwal">
@@ -30,13 +28,18 @@
          </div>
 
          <!-- Left and right controls -->
+
          <a class="left carousel-control" href="#myCarousel" data-slide="prev">
-             <span class="glyphicon glyphicon-chevron-left"></span>
+             <span class="fa fa-angle-left fa-5x" style="margin-top: 150%"></span>
              <span class="sr-only">Previous</span>
          </a>
          <a class="right carousel-control" href="#myCarousel" data-slide="next">
-             <span class="glyphicon glyphicon-chevron-right"></span>
+             <span class="fa fa-angle-right fa-5x" style="margin-top: 150%"></span>
              <span class="sr-only">Next</span>
          </a>
+<!--
+         <a class="carousel-right member-carousel-control" href="#myCarousel" data-slide="prev"><i class="fa fa-angle-left"></i></a>
+         <a class="carousel-right member-carousel-control" href="#myCarousel" data-slide="next"><i class="fa fa-angle-right"></i></a>
+    -->
      </div>
  </div>
