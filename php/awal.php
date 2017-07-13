@@ -15,15 +15,15 @@
          <!-- Wrapper for slides -->
          <div class="carousel-inner">
              <div class="item active">
-                 <img src="images/slide/slider1.jpg" alt="Los Angeles" style="width:100%;">
+                 <img src="images/slide/slider4.jpg" alt="pict1" style="width:100%;">
                  <div class="carousel-caption">
-                     <h4 style="text-align: center;font-size: 16pt; color: #0000ff">Visi
+                     <h4 style="text-align: center;font-size: 14pt; color: #ffffee">Visi
                         <br>
                             "Menjadi perusahaan agroindustri terkemuka yang berwawasan lingkungan".
                         </br>
                     </h4>
                     
-                    <h4 style="text-align: center;font-size: 16pt; color: #009933">Misi
+                    <h4 style="text-align: center;font-size: 14pt; color: #ffffee">Misi
                         <br>
                             Berkomitmen menghasilkan produk berbasis  bahan baku tebu dan tembakau yang berdaya  saing tinggi untuk pasar domestik dan internasional dan berwawasan lingkungan.
                             Berkomitmen menjaga pertumbuhan dan kelangsungan usaha melalui optimalisasi dan efisiensi di segala bidang.
@@ -34,11 +34,11 @@
              </div>
 
              <div class="item">
-                 <img src="images/slide/slider2.jpg" alt="Chicago" style="width:100%;">
+                 <img src="images/slide/slider1.jpg" alt="pict2" style="width:100%;">
              </div>
 
              <div class="item">
-                 <img src="images/slide/slider3.jpg" alt="New york" style="width:100%;">
+                 <img src="images/slide/slider3.jpg" alt="pict3" style="width:100%;">
              </div>
          </div>
 

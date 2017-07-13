@@ -4,7 +4,7 @@
 <!-- sivann at gmail . com  -->
 <html>
 <head>
-<title>SIDAK - [<?php  echo $title." $id";?>] - Sistem Informasi Data Komputer</title>
+<title>SIDAK - Sistem Informasi Data Komputer</title>
 <meta http-equiv="Content-Type" content="text/html; charset=UTF-8" />
 <meta http-equiv="X-UA-Compatible" content="IE=9" > 
 
