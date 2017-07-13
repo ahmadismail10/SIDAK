@@ -16,6 +16,21 @@
          <div class="carousel-inner">
              <div class="item active">
                  <img src="images/slide/slider1.jpg" alt="Los Angeles" style="width:100%;">
+                 <div class="carousel-caption">
+                     <h4 style="text-align: center;font-size: 16pt; color: #0000ff">Visi
+                        <br>
+                            "Menjadi perusahaan agroindustri terkemuka yang berwawasan lingkungan".
+                        </br>
+                    </h4>
+                    
+                    <h4 style="text-align: center;font-size: 16pt; color: #009933">Misi
+                        <br>
+                            Berkomitmen menghasilkan produk berbasis  bahan baku tebu dan tembakau yang berdaya  saing tinggi untuk pasar domestik dan internasional dan berwawasan lingkungan.
+                            Berkomitmen menjaga pertumbuhan dan kelangsungan usaha melalui optimalisasi dan efisiensi di segala bidang.
+                            Mendedikasikan diri untuk selalu meningkatkan nilai-nilai perusahaan bagi kepuasan stakeholder melalui kepemimpinan, inovasi dan kerjasama team serta organisasi yang profesional.
+                        </br>
+                    </h4>
+                 </div>
              </div>
 
              <div class="item">
@@ -30,13 +45,14 @@
          <!-- Left and right controls -->
 
          <a class="left carousel-control" href="#myCarousel" data-slide="prev">
-             <span class="fa fa-angle-left fa-5x" style="margin-top: 150%"></span>
+             <span class="fa fa-angle-left fa-3x" style="margin-top: 150%"></span>
              <span class="sr-only">Previous</span>
          </a>
          <a class="right carousel-control" href="#myCarousel" data-slide="next">
-             <span class="fa fa-angle-right fa-5x" style="margin-top: 150%"></span>
+             <span class="fa fa-angle-right fa-3x" style="margin-top: 150%"></span>
              <span class="sr-only">Next</span>
          </a>
+
 <!--
          <a class="carousel-right member-carousel-control" href="#myCarousel" data-slide="prev"><i class="fa fa-angle-left"></i></a>
          <a class="carousel-right member-carousel-control" href="#myCarousel" data-slide="next"><i class="fa fa-angle-right"></i></a>
