@@ -29,7 +29,9 @@
                         </br>
                         <br>    
                             2. Berkomitmen menjaga pertumbuhan dan kelangsungan usaha melalui optimalisasi dan efisiensi di segala bidang.
-                            Mendedikasikan diri untuk selalu meningkatkan nilai-nilai perusahaan bagi kepuasan stakeholder melalui kepemimpinan, inovasi dan kerjasama team serta organisasi yang profesional.
+                        </br>
+                        <br>
+                            3. Mendedikasikan diri untuk selalu meningkatkan nilai-nilai perusahaan bagi kepuasan stakeholder melalui kepemimpinan, inovasi dan kerjasama team serta organisasi yang profesional.
                         </br>
                         
                     </h4>
